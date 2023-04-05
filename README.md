@@ -1,2 +1,1 @@
-# siteescolafrancisco
-SITE ESCOLA ALURA
+# site-criativo-alura
